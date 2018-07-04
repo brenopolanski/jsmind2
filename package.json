@@ -1,0 +1,19 @@
+{
+  "name": "jsmind2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/js/jsmind2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenopolanski/jsmind2.git"
+  },
+  "author": "Breno Polanski",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/brenopolanski/jsmind2/issues"
+  },
+  "homepage": "https://github.com/brenopolanski/jsmind2#readme"
+}
